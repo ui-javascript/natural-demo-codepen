@@ -1,8 +1,9 @@
+// https://codepen.io/mudontire/pen/aeJQqB
+// https://9527-uijavascript-demovuecode-syzaqfx8bny.ws-us34.gitpod.io/btn-3d.html
 import Vue from 'vue'
 import "./btn-3d.less"
 
 
-// https://codepen.io/mudontire/pen/aeJQqB
 const App = {
   template: `
 
